@@ -12,7 +12,7 @@
 ### CLICK THE ICON TO VISIT MY PROFILE:
 
 <span>
-  <a href="https://twitter.com/JosephG" target="_blank"><img width="30px" src="https://static.vecteezy.com/system/resources/previews/008/385/855/large_2x/twitter-social-media-icon-symbol-design-illustration-free-vector.jpg"></a>
+  <a href="https://twitter.com/JosephG67636106" target="_blank"><img width="30px" src="https://static.vecteezy.com/system/resources/previews/008/385/855/large_2x/twitter-social-media-icon-symbol-design-illustration-free-vector.jpg"></a>
 </span>
 
 | ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-Godwin12&show_icons=true&theme=transparent) | <a href="https://github.com/Joseph-Godwin12?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Godwin12&layout=compact&theme=buefy&hide_border=true" /></a> |
